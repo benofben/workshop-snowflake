@@ -6,3 +6,28 @@ SQL is foundational to Snowflake, but layering relationship intelligence provide
 - Deploy Neo4j Graph Analytics in Snowflake
 - Apply graph-based similarity
 - Build scalable, relationship-aware intelligence
+
+## STEP 1 -- Create a Snowflake Account
+
+You will need a Snowflake account to participate in this lab. If you do not already have one, sign up for a free trial at:
+
+https://signup.snowflake.com
+
+When prompted, select the following options:
+- Cloud provider: AWS
+- Region: US East (N. Virginia)
+- Edition: Enterprise (the free trial defaults to this)
+
+Please complete account registration and log in to confirm your account is active before the session.
+
+## STEP 2 -- Verify Your Account is Active
+
+Once registered, log in to your Snowflake account at https://app.snowflake.com and confirm you can access the Snowflake UI. No additional configuration is required -- we will walk through everything else together during the lab.
+
+## STEP 3 -- Download the Notebook
+
+We will be working from a Snowflake Notebook during the lab. Please download it in advance from the link below so you have it ready to upload at the start of the session:
+
+https://github.com/neo4j-graphacademy/workshop-snowflake/blob/main/practical_graph_analytics.ipynb
+
+To download: click the link above, then click the download icon (top right of the file view).
